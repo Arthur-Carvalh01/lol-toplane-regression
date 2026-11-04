@@ -26,5 +26,5 @@ O modelo de Regressão Linear extraiu os seguintes parâmetros matemáticos do c
 1. Clone este repositório: `git clone https://github.com/Arthur-Carvalh01/lol-toplane-regression.git`
 2. Crie um ambiente virtual: `python -m venv venv` e ative-o.
 3. Instale as dependências: `pip install pandas scikit-learn matplotlib seaborn jupyter`
-4. Baixe o dataset [Nome do Dataset] do Kaggle e insira em `data/raw/`.
+4. Baixe o dataset League of Legends(LoL) Matches Patch 25.19+ do Kaggle e insira em `data/raw/`.
 5. Execute os notebooks da pasta `notebooks/` para visualizar as matrizes de correlação e o treinamento do modelo.
